@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin_small">4dp</dimen>
+
+    <!-- resize view -->
+    <dimen name="test_width_button_login">200dp</dimen>
+    <dimen name="test_height_edit_text">48dp</dimen>
+
+    <!-- Text size -->
+    <dimen name="test_text_size_normal">16dp</dimen>
+    <dimen name="test_text_size_medium">24dp</dimen>
+</resources>

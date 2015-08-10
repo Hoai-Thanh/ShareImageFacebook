@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">427535960732746</string>
+
+    <!-- Share image -->
+    <string name="test_text_exception">Please input QR text</string>
+    <string name="test_send_image_success">Share image to facebook success</string>
+    <string name="test_hint_qr_text">QR text</string>
+    <string name="test_complete_welcome">Welcome :%s</string>
+
+</resources>

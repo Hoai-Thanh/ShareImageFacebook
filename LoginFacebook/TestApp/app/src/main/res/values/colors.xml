@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="test_azure_radiance">#0691E9</color>
+    <color name="test_white">#FFFFFF</color>
+    <color name="test_blue">#0087b9</color>
+    <color name="test_gray">#666666</color>
+</resources>

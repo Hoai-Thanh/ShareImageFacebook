@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/test_shareFragment_txtWelcome"
+        android:textColor="@color/test_blue"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/test_height_edit_text"
+        android:textSize="@dimen/test_text_size_medium"/>
+
+    <RelativeLayout
+        android:id="@+id/shop_signInActivity_email"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/test_height_edit_text"
+        android:layout_below="@+id/shop_signInActivity_header"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_marginRight="@dimen/activity_vertical_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:background="@drawable/test_selector_comment">
+
+        <ImageView
+            android:id="@+id/test_shareFragment_icMessage"
+            android:layout_width="@dimen/test_text_size_normal"
+            android:layout_height="@dimen/test_text_size_normal"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/activity_vertical_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin_small"
+            android:src="@drawable/test_qr_code" />
+
+        <EditText
+            android:id="@+id/test_shareFragment_edtMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/activity_vertical_margin"
+            android:layout_marginRight="@dimen/activity_vertical_margin"
+            android:layout_toRightOf="@+id/test_shareFragment_icMessage"
+            android:background="@null"
+            android:hint="@string/test_hint_qr_text"
+            android:inputType="text"
+            android:singleLine="true" />
+    </RelativeLayout>
+
+    <Button
+        android:layout_width="@dimen/test_width_button_login"
+        android:layout_height="wrap_content"
+        android:id="@+id/test_shareFragment_btnShareImage"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/test_height_edit_text"
+        android:background="@color/test_blue"
+        android:text="Share Image"
+        android:textColor="@color/test_white"
+        android:textStyle="bold" />
+
+</LinearLayout>
