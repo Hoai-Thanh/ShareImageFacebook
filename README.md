@@ -12,3 +12,5 @@ Share Image Screen
 Share Image Success
 
 <a href="http://s1146.photobucket.com/user/pianolossy/media/Login%20Facebook/share.png.html" target="_blank"><img src="http://i1146.photobucket.com/albums/o535/pianolossy/Login%20Facebook/share.png" border="0" alt="share image photo share.png"/></a>
+
+<a href="http://s1146.photobucket.com/user/pianolossy/media/Login%20Facebook/success.png.html" target="_blank"><img src="http://i1146.photobucket.com/albums/o535/pianolossy/Login%20Facebook/success.png" border="0" alt="success photo success.png"/></a>
