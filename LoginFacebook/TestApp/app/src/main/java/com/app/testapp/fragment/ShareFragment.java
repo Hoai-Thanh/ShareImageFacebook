@@ -57,7 +57,7 @@ public class ShareFragment extends BaseFragment{
     private View.OnClickListener onClickListener = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-            loginManager.logInWithPublishPermissions(activity, Arrays.asList("publish_actions"));
+//            loginManager.logInWithPublishPermissions(activity, Arrays.asList("publish_actions"));
             shareImage();
         }
     };
@@ -92,7 +92,7 @@ public class ShareFragment extends BaseFragment{
 
             @Override
             public void onSuccess(LoginResult loginResult) {
-
+                
             }
 
             @Override
