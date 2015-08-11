@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\PJ_2015\Android\TestApp\facebook\src\main\assets"/></dataSet><dataSet config="release"><source path="E:\PJ_2015\Android\TestApp\facebook\src\release\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\PJ_2015\Android\ShareImageFacebook\LoginFacebook\TestApp\facebook\src\main\assets"/></dataSet><dataSet config="release"><source path="E:\PJ_2015\Android\ShareImageFacebook\LoginFacebook\TestApp\facebook\src\release\assets"/></dataSet></merger>

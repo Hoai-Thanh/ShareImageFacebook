@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/PJ_2015/Android/TestApp/facebook/build/intermediates/bundles/debug/res/values-in/values.xml -->
+    <!-- From: file:/E:/PJ_2015/Android/ShareImageFacebook/LoginFacebook/TestApp/facebook/build/intermediates/bundles/debug/res/values-in/values.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">Kirim</string>
 </resources>
